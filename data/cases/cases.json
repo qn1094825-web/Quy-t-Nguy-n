@@ -1,0 +1,428 @@
+[
+  {
+    "id": "case_1794566515338",
+    "title": "Hồ sơ Trần Đức Bình",
+    "customerName": "Trần Đức Bình",
+    "status": "exported",
+    "selectedTemplateIds": [
+      "tpl_starter_3"
+    ],
+    "documents": [
+      {
+        "id": "doc_1794566942132_l0pht",
+        "originalName": "1794020450242_2144540980971497786_5403094118358419203_6a512eb5cad34a0a1c1878d79fb06284.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 327873,
+        "docTypeHint": "hop_dong_chuyen_nhuong",
+        "fileNameOnDisk": "doc_1794566942132_l0pht_1794020450242_2144540980971497786_5403094118358419203_6a512eb5cad34a0a1c1878d79fb06284.jpg",
+        "uploadedAt": "2026-11-13T10:49:02.132Z"
+      },
+      {
+        "id": "doc_1794566942132_3drmt",
+        "originalName": "1794020450223_2144540980971497786_5403094118358419203_db128d2f56af412d5bf2b75aac9ba9c3.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": 262312,
+        "docTypeHint": "hop_dong_chuyen_nhuong",
+        "fileNameOnDisk": "doc_1794566942132_3drmt_1794020450223_2144540980971497786_5403094118358419203_db128d2f56af412d5bf2b75aac9ba9c3.jpg",
+        "uploadedAt": "2026-11-13T10:49:02.132Z"
+      }
+    ],
+    "extractedFields": {
+      "so_hop_dong": {
+        "key": "so_hop_dong",
+        "label": "Số hợp đồng / Văn bản",
+        "group": "general",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ngay_lap": {
+        "key": "ngay_lap",
+        "label": "Ngày lập văn bản",
+        "group": "general",
+        "value": "ngày 05 tháng 11 năm 2026",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1"
+      },
+      "ngay_cong_chung": {
+        "key": "ngay_cong_chung",
+        "label": "Ngày công chứng",
+        "group": "general",
+        "value": "",
+        "sourceNote": ""
+      },
+      "van_phong_cong_chung": {
+        "key": "van_phong_cong_chung",
+        "label": "Văn phòng công chứng / UBND",
+        "group": "general",
+        "value": "Văn phòng công chứng Võ Thị Liên, tỉnh Thanh Hóa",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1"
+      },
+      "dia_diem_ky": {
+        "key": "dia_diem_ky",
+        "label": "Địa điểm ký kết",
+        "group": "general",
+        "value": "Thôn Hoà Bình, xã Hà Trung, tỉnh Thanh Hóa",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1"
+      },
+      "gia_chuyen_nhuong": {
+        "key": "gia_chuyen_nhuong",
+        "label": "Giá chuyển nhượng (số)",
+        "group": "general",
+        "value": "500.000.000đ",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 2 (Điều 2)"
+      },
+      "gia_chuyen_nhuong_bang_chu": {
+        "key": "gia_chuyen_nhuong_bang_chu",
+        "label": "Giá chuyển nhượng (bằng chữ)",
+        "group": "general",
+        "value": "Năm trăm triệu đồng",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 2 (Điều 2)"
+      },
+      "phuong_thuc_thanh_toan": {
+        "key": "phuong_thuc_thanh_toan",
+        "label": "Phương thức thanh toán",
+        "group": "general",
+        "value": "Tiền mặt",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 2 (Điều 2)"
+      },
+      "ben_ban_ho_ten": {
+        "key": "ben_ban_ho_ten",
+        "label": "Họ và tên (Bên A / Bên bán)",
+        "group": "party_a",
+        "value": "Nguyễn Thị Cải",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên A)"
+      },
+      "ben_ban_ngay_sinh": {
+        "key": "ben_ban_ngay_sinh",
+        "label": "Ngày sinh (Bên A)",
+        "group": "party_a",
+        "value": "20/10/1974",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên A)"
+      },
+      "ben_ban_gioi_tinh": {
+        "key": "ben_ban_gioi_tinh",
+        "label": "Giới tính (Bên A)",
+        "group": "party_a",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_ban_cccd": {
+        "key": "ben_ban_cccd",
+        "label": "Số CCCD / CMND (Bên A)",
+        "group": "party_a",
+        "value": "038174006812",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên A)"
+      },
+      "ben_ban_ngay_cap": {
+        "key": "ben_ban_ngay_cap",
+        "label": "Ngày cấp CCCD (Bên A)",
+        "group": "party_a",
+        "value": "16/05/2023",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên A)"
+      },
+      "ben_ban_noi_cap": {
+        "key": "ben_ban_noi_cap",
+        "label": "Nơi cấp CCCD (Bên A)",
+        "group": "party_a",
+        "value": "Cục cảnh sát quản lý hành chính về trật tự xã hội",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên A)"
+      },
+      "ben_ban_dia_chi": {
+        "key": "ben_ban_dia_chi",
+        "label": "Địa chỉ thường trú (Bên A)",
+        "group": "party_a",
+        "value": "Xã Gia Kiệm, thành phố Đồng Nai (Hộ khẩu thường trú: xã Nga Phú, huyện Nga Sơn, tỉnh Thanh Hoá, nay là Nga An, tỉnh Thanh Hoá))",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên A)"
+      },
+      "ben_ban_vo_chong_ho_ten": {
+        "key": "ben_ban_vo_chong_ho_ten",
+        "label": "Họ tên vợ/chồng (Bên A)",
+        "group": "party_a",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_ban_vo_chong_ngay_sinh": {
+        "key": "ben_ban_vo_chong_ngay_sinh",
+        "label": "Ngày sinh vợ/chồng (Bên A)",
+        "group": "party_a",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_ban_vo_chong_gioi_tinh": {
+        "key": "ben_ban_vo_chong_gioi_tinh",
+        "label": "Giới tính vợ/chồng (Bên A)",
+        "group": "party_a",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_ban_vo_chong_cccd": {
+        "key": "ben_ban_vo_chong_cccd",
+        "label": "Số CCCD vợ/chồng (Bên A)",
+        "group": "party_a",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_ban_vo_chong_ngay_cap": {
+        "key": "ben_ban_vo_chong_ngay_cap",
+        "label": "Ngày cấp CCCD vợ/chồng (Bên A)",
+        "group": "party_a",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_ban_vo_chong_noi_cap": {
+        "key": "ben_ban_vo_chong_noi_cap",
+        "label": "Nơi cấp CCCD vợ/chồng (Bên A)",
+        "group": "party_a",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_ban_vo_chong_dia_chi": {
+        "key": "ben_ban_vo_chong_dia_chi",
+        "label": "Địa chỉ vợ/chồng (Bên A)",
+        "group": "party_a",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_mua_ho_ten": {
+        "key": "ben_mua_ho_ten",
+        "label": "Họ và tên (Bên B / Bên nhận)",
+        "group": "party_b",
+        "value": "Trần Đức Bình",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên B)"
+      },
+      "ben_mua_ngay_sinh": {
+        "key": "ben_mua_ngay_sinh",
+        "label": "Ngày sinh (Bên B)",
+        "group": "party_b",
+        "value": "10/09/1999",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên B)"
+      },
+      "ben_mua_gioi_tinh": {
+        "key": "ben_mua_gioi_tinh",
+        "label": "Giới tính (Bên B)",
+        "group": "party_b",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_mua_cccd": {
+        "key": "ben_mua_cccd",
+        "label": "Số CCCD / CMND (Bên B)",
+        "group": "party_b",
+        "value": "038099012081",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên B)"
+      },
+      "ben_mua_ngay_cap": {
+        "key": "ben_mua_ngay_cap",
+        "label": "Ngày cấp CCCD (Bên B)",
+        "group": "party_b",
+        "value": "18/03/2025",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên B)"
+      },
+      "ben_mua_noi_cap": {
+        "key": "ben_mua_noi_cap",
+        "label": "Nơi cấp CCCD (Bên B)",
+        "group": "party_b",
+        "value": "Bộ Công an",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên B)"
+      },
+      "ben_mua_dia_chi": {
+        "key": "ben_mua_dia_chi",
+        "label": "Địa chỉ thường trú (Bên B)",
+        "group": "party_b",
+        "value": "Xã Lĩnh Toại, tỉnh Thanh Hoá",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Bên B)"
+      },
+      "ben_mua_vo_chong_ho_ten": {
+        "key": "ben_mua_vo_chong_ho_ten",
+        "label": "Họ tên vợ/chồng (Bên B)",
+        "group": "party_b",
+        "value": "Trần Thị Hường",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Vợ Bên B)"
+      },
+      "ben_mua_vo_chong_ngay_sinh": {
+        "key": "ben_mua_vo_chong_ngay_sinh",
+        "label": "Ngày sinh vợ/chồng (Bên B)",
+        "group": "party_b",
+        "value": "22/06/1999",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Vợ Bên B)"
+      },
+      "ben_mua_vo_chong_gioi_tinh": {
+        "key": "ben_mua_vo_chong_gioi_tinh",
+        "label": "Giới tính vợ/chồng (Bên B)",
+        "group": "party_b",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ben_mua_vo_chong_cccd": {
+        "key": "ben_mua_vo_chong_cccd",
+        "label": "Số CCCD vợ/chồng (Bên B)",
+        "group": "party_b",
+        "value": "038199025201",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Vợ Bên B)"
+      },
+      "ben_mua_vo_chong_ngay_cap": {
+        "key": "ben_mua_vo_chong_ngay_cap",
+        "label": "Ngày cấp CCCD vợ/chồng (Bên B)",
+        "group": "party_b",
+        "value": "02/08/2024",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Vợ Bên B)"
+      },
+      "ben_mua_vo_chong_noi_cap": {
+        "key": "ben_mua_vo_chong_noi_cap",
+        "label": "Nơi cấp CCCD vợ/chồng (Bên B)",
+        "group": "party_b",
+        "value": "Bộ Công an",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Vợ Bên B)"
+      },
+      "ben_mua_vo_chong_dia_chi": {
+        "key": "ben_mua_vo_chong_dia_chi",
+        "label": "Địa chỉ vợ/chồng (Bên B)",
+        "group": "party_b",
+        "value": "Xã Lĩnh Toại, tỉnh Thanh Hoá",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Vợ Bên B)"
+      },
+      "thua_dat_so": {
+        "key": "thua_dat_so",
+        "label": "Số thửa đất",
+        "group": "property",
+        "value": "815",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "to_ban_do_so": {
+        "key": "to_ban_do_so",
+        "label": "Số tờ bản đồ",
+        "group": "property",
+        "value": "11",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "dia_chi_thua_dat": {
+        "key": "dia_chi_thua_dat",
+        "label": "Địa chỉ thửa đất",
+        "group": "property",
+        "value": "Xã Nga Thắng, huyện Nga Sơn, tỉnh Thanh Hoá (nay là xã Nga An, tỉnh Thanh Hoá))",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "dien_tich": {
+        "key": "dien_tich",
+        "label": "Diện tích (m²)",
+        "group": "property",
+        "value": "100,0",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 & 2"
+      },
+      "dien_tich_bang_chu": {
+        "key": "dien_tich_bang_chu",
+        "label": "Diện tích (bằng chữ)",
+        "group": "property",
+        "value": "Một trăm mét vuông",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 & 2"
+      },
+      "hinh_thuc_su_dung": {
+        "key": "hinh_thuc_su_dung",
+        "label": "Hình thức sử dụng",
+        "group": "property",
+        "value": "Riêng: 100m²; Chung: Không",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "muc_dich_su_dung": {
+        "key": "muc_dich_su_dung",
+        "label": "Mục đích sử dụng đất",
+        "group": "property",
+        "value": "Đất ở tại nông thôn 100m²",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 & 2"
+      },
+      "thoi_han_su_dung": {
+        "key": "thoi_han_su_dung",
+        "label": "Thời hạn sử dụng",
+        "group": "property",
+        "value": "Lâu dài (ONT))",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 & 2"
+      },
+      "nguon_goc_su_dung": {
+        "key": "nguon_goc_su_dung",
+        "label": "Nguồn gốc sử dụng",
+        "group": "property",
+        "value": "Nhà nước giao đất có thu tiền sử dụng đất",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "so_phat_hanh_gcn": {
+        "key": "so_phat_hanh_gcn",
+        "label": "Số phát hành Sổ đỏ (Seri)",
+        "group": "property",
+        "value": "BS 810425",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "so_vao_so_gcn": {
+        "key": "so_vao_so_gcn",
+        "label": "Số vào sổ cấp GCN",
+        "group": "property",
+        "value": "CH 00027",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "ngay_cap_gcn": {
+        "key": "ngay_cap_gcn",
+        "label": "Ngày cấp GCN",
+        "group": "property",
+        "value": "03/04/2014",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "co_quan_cap_gcn": {
+        "key": "co_quan_cap_gcn",
+        "label": "Cơ quan cấp GCN",
+        "group": "property",
+        "value": "UBND huyện Nga Sơn, tỉnh Thanh Hoá",
+        "sourceNote": "Hợp đồng chuyển nhượng trang 1 (Điều 1)"
+      },
+      "tai_san_gan_lien": {
+        "key": "tai_san_gan_lien",
+        "label": "Tài sản gắn liền với đất",
+        "group": "property",
+        "value": "",
+        "sourceNote": ""
+      },
+      "nguoi_de_lai_di_san": {
+        "key": "nguoi_de_lai_di_san",
+        "label": "Người để lại di sản",
+        "group": "property",
+        "value": "",
+        "sourceNote": ""
+      },
+      "ngay_mat_nguoi_de_lai": {
+        "key": "ngay_mat_nguoi_de_lai",
+        "label": "Ngày mất / Giấy chứng tử",
+        "group": "property",
+        "value": "",
+        "sourceNote": ""
+      },
+      "noi_dung_di_san": {
+        "key": "noi_dung_di_san",
+        "label": "Thông tin phân chia di sản",
+        "group": "property",
+        "value": "",
+        "sourceNote": ""
+      }
+    },
+    "isVerified": true,
+    "generatedOutputs": [
+      {
+        "templateId": "tpl_starter_3",
+        "templateName": "Đơn đăng ký biến động đất đai (Mẫu 09/ĐK)",
+        "outputFileName": "Don_dang_ky_bien_dong_dat_dai_Mau_09_DK_Tran_Duc_Binh.docx",
+        "generatedAt": "2026-11-13T10:49:43.356Z",
+        "filledCount": 22,
+        "totalMappings": 23,
+        "missingKeys": [
+          "so_hop_dong"
+        ]
+      }
+    ],
+    "createdAt": "2026-11-13T10:41:55.338Z",
+    "updatedAt": "2026-11-13T10:54:16.629Z",
+    "aiSummary": "Hồ sơ gồm 2 trang của Hợp đồng chuyển nhượng quyền sử dụng đất lập ngày 05 tháng 11 năm 2026 tại Văn phòng công chứng Võ Thị Liên, tỉnh Thanh Hóa giữa Bên chuyển nhượng là bà Nguyễn Thị Cải và Bên nhận chuyển nhượng là ông Trần Đức Bình cùng vợ là bà Trần Thị Hường đối với thửa đất số 815, tờ bản đồ số 11 tại xã Nga Thắng, huyện Nga Sơn, tỉnh Thanh Hoá (nay là xã Nga An, tỉnh Thanh Hoá), diện tích 100,0 m², giá chuyển nhượng 500.000.000đ.",
+    "fillOptions": {
+      "eraseUnfilledOldText": true,
+      "autoInsertSpousePartyA": false,
+      "autoInsertSpousePartyB": false,
+      "customSpouseTextPartyA": "",
+      "customSpouseTextPartyB": ""
+    }
+  }
+]

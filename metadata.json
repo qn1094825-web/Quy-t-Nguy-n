@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix HỒ SƠ AI",
+  "description": "Hệ thống tự động đọc thông tin từ giấy tờ khách hàng (CCCD, Sổ đỏ, hợp đồng, PDF) và điền chính xác vào các mẫu Word có sẵn, giữ nguyên định dạng gốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

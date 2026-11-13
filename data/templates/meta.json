@@ -1,0 +1,716 @@
+[
+  {
+    "id": "tpl_1794567399266_sm4ae",
+    "name": "PNN",
+    "originalFileName": "PNN.docx",
+    "category": "Mẫu văn bản",
+    "fileNameOnDisk": "tpl_1794567399266_sm4ae_PNN.docx",
+    "sizeBytes": 41310,
+    "placeholdersDetected": [],
+    "mappings": [],
+    "createdAt": "2026-11-13T10:56:39.209Z",
+    "updatedAt": "2026-11-13T10:56:39.209Z"
+  },
+  {
+    "id": "tpl_1794567354627_f650u",
+    "name": "TNCN",
+    "originalFileName": "TNCN.docx",
+    "category": "Hợp đồng & Giao dịch",
+    "fileNameOnDisk": "tpl_1794567354627_f650u_TNCN.docx",
+    "sizeBytes": 3141318,
+    "placeholdersDetected": [],
+    "mappings": [],
+    "createdAt": "2026-11-13T10:55:54.502Z",
+    "updatedAt": "2026-11-13T10:55:54.502Z"
+  },
+  {
+    "id": "tpl_starter_1",
+    "name": "Hợp đồng chuyển nhượng QSDĐ (Mẫu chuẩn)",
+    "originalFileName": "Hop_dong_chuyen_nhuong_QSDD_mau.docx",
+    "category": "Hợp đồng chuyển nhượng",
+    "fileNameOnDisk": "tpl_starter_1_Hop_dong_chuyen_nhuong_QSDD_mau.docx",
+    "sizeBytes": 3369,
+    "placeholdersDetected": [
+      "{{so_hop_dong}}",
+      "{{ngay_lap}}",
+      "{{van_phong_cong_chung}}",
+      "{{ben_ban_ho_ten}}",
+      "{{ben_ban_ngay_sinh}}",
+      "{{ben_ban_cccd}}",
+      "{{ben_ban_ngay_cap}}",
+      "{{ben_ban_noi_cap}}",
+      "{{ben_ban_dia_chi}}",
+      "{{ben_mua_ho_ten}}",
+      "{{ben_mua_ngay_sinh}}",
+      "{{ben_mua_cccd}}",
+      "{{ben_mua_ngay_cap}}",
+      "{{ben_mua_noi_cap}}",
+      "{{ben_mua_dia_chi}}",
+      "{{thua_dat_so}}",
+      "{{to_ban_do_so}}",
+      "{{dia_chi_thua_dat}}",
+      "{{dien_tich}}",
+      "{{dien_tich_bang_chu}}",
+      "{{hinh_thuc_su_dung}}",
+      "{{muc_dich_su_dung}}",
+      "{{thoi_han_su_dung}}",
+      "{{so_phat_hanh_gcn}}",
+      "{{so_vao_so_gcn}}",
+      "{{ngay_cap_gcn}}",
+      "{{co_quan_cap_gcn}}",
+      "{{gia_chuyen_nhuong}}",
+      "{{gia_chuyen_nhuong_bang_chu}}",
+      "{{phuong_thuc_thanh_toan}}"
+    ],
+    "mappings": [
+      {
+        "id": "map_so_hop_dong_dg8q8",
+        "fieldKey": "so_hop_dong",
+        "label": "Số hợp đồng / Văn bản",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_hop_dong}}"
+      },
+      {
+        "id": "map_ngay_lap_hyrad",
+        "fieldKey": "ngay_lap",
+        "label": "Ngày lập văn bản",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{ngay_lap}}"
+      },
+      {
+        "id": "map_van_phong_cong_chung_r244g",
+        "fieldKey": "van_phong_cong_chung",
+        "label": "Văn phòng công chứng / UBND",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{van_phong_cong_chung}}"
+      },
+      {
+        "id": "map_ben_ban_ho_ten_s5vpp",
+        "fieldKey": "ben_ban_ho_ten",
+        "label": "Họ và tên (Bên A / Bên bán)",
+        "group": "party_a",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_ban_ho_ten}}"
+      },
+      {
+        "id": "map_ben_ban_ngay_sinh_1pqeu",
+        "fieldKey": "ben_ban_ngay_sinh",
+        "label": "Ngày sinh (Bên A)",
+        "group": "party_a",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_ban_ngay_sinh}}"
+      },
+      {
+        "id": "map_ben_ban_cccd_ivycr",
+        "fieldKey": "ben_ban_cccd",
+        "label": "Số CCCD / CMND (Bên A)",
+        "group": "party_a",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_ban_cccd}}"
+      },
+      {
+        "id": "map_ben_ban_ngay_cap_hsb0q",
+        "fieldKey": "ben_ban_ngay_cap",
+        "label": "Ngày cấp CCCD (Bên A)",
+        "group": "party_a",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_ban_ngay_cap}}"
+      },
+      {
+        "id": "map_ben_ban_noi_cap_jj0lp",
+        "fieldKey": "ben_ban_noi_cap",
+        "label": "Nơi cấp CCCD (Bên A)",
+        "group": "party_a",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_ban_noi_cap}}"
+      },
+      {
+        "id": "map_ben_ban_dia_chi_cp136",
+        "fieldKey": "ben_ban_dia_chi",
+        "label": "Địa chỉ thường trú (Bên A)",
+        "group": "party_a",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_ban_dia_chi}}"
+      },
+      {
+        "id": "map_ben_mua_ho_ten_9r0al",
+        "fieldKey": "ben_mua_ho_ten",
+        "label": "Họ và tên (Bên B / Bên nhận)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ho_ten}}"
+      },
+      {
+        "id": "map_ben_mua_ngay_sinh_n5ilp",
+        "fieldKey": "ben_mua_ngay_sinh",
+        "label": "Ngày sinh (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ngay_sinh}}"
+      },
+      {
+        "id": "map_ben_mua_cccd_66ya2",
+        "fieldKey": "ben_mua_cccd",
+        "label": "Số CCCD / CMND (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_cccd}}"
+      },
+      {
+        "id": "map_ben_mua_ngay_cap_jbsgu",
+        "fieldKey": "ben_mua_ngay_cap",
+        "label": "Ngày cấp CCCD (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ngay_cap}}"
+      },
+      {
+        "id": "map_ben_mua_noi_cap_z8f7d",
+        "fieldKey": "ben_mua_noi_cap",
+        "label": "Nơi cấp CCCD (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_noi_cap}}"
+      },
+      {
+        "id": "map_ben_mua_dia_chi_ij4s5",
+        "fieldKey": "ben_mua_dia_chi",
+        "label": "Địa chỉ thường trú (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_dia_chi}}"
+      },
+      {
+        "id": "map_thua_dat_so_cn67d",
+        "fieldKey": "thua_dat_so",
+        "label": "Số thửa đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{thua_dat_so}}"
+      },
+      {
+        "id": "map_to_ban_do_so_sml99",
+        "fieldKey": "to_ban_do_so",
+        "label": "Số tờ bản đồ",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{to_ban_do_so}}"
+      },
+      {
+        "id": "map_dia_chi_thua_dat_s5pkf",
+        "fieldKey": "dia_chi_thua_dat",
+        "label": "Địa chỉ thửa đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{dia_chi_thua_dat}}"
+      },
+      {
+        "id": "map_dien_tich_hgudw",
+        "fieldKey": "dien_tich",
+        "label": "Diện tích (m²)",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{dien_tich}}"
+      },
+      {
+        "id": "map_dien_tich_bang_chu_obax9",
+        "fieldKey": "dien_tich_bang_chu",
+        "label": "Diện tích (bằng chữ)",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{dien_tich_bang_chu}}"
+      },
+      {
+        "id": "map_hinh_thuc_su_dung_xik13",
+        "fieldKey": "hinh_thuc_su_dung",
+        "label": "Hình thức sử dụng",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{hinh_thuc_su_dung}}"
+      },
+      {
+        "id": "map_muc_dich_su_dung_56wbo",
+        "fieldKey": "muc_dich_su_dung",
+        "label": "Mục đích sử dụng đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{muc_dich_su_dung}}"
+      },
+      {
+        "id": "map_thoi_han_su_dung_sghbw",
+        "fieldKey": "thoi_han_su_dung",
+        "label": "Thời hạn sử dụng",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{thoi_han_su_dung}}"
+      },
+      {
+        "id": "map_so_phat_hanh_gcn_o1vzq",
+        "fieldKey": "so_phat_hanh_gcn",
+        "label": "Số phát hành Sổ đỏ (Seri)",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_phat_hanh_gcn}}"
+      },
+      {
+        "id": "map_so_vao_so_gcn_pyxpe",
+        "fieldKey": "so_vao_so_gcn",
+        "label": "Số vào sổ cấp GCN",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_vao_so_gcn}}"
+      },
+      {
+        "id": "map_ngay_cap_gcn_o30jo",
+        "fieldKey": "ngay_cap_gcn",
+        "label": "Ngày cấp GCN",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{ngay_cap_gcn}}"
+      },
+      {
+        "id": "map_co_quan_cap_gcn_dad5p",
+        "fieldKey": "co_quan_cap_gcn",
+        "label": "Cơ quan cấp GCN",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{co_quan_cap_gcn}}"
+      },
+      {
+        "id": "map_gia_chuyen_nhuong_2e3jt",
+        "fieldKey": "gia_chuyen_nhuong",
+        "label": "Giá chuyển nhượng (số)",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{gia_chuyen_nhuong}}"
+      },
+      {
+        "id": "map_gia_chuyen_nhuong_bang_chu_p80w2",
+        "fieldKey": "gia_chuyen_nhuong_bang_chu",
+        "label": "Giá chuyển nhượng (bằng chữ)",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{gia_chuyen_nhuong_bang_chu}}"
+      },
+      {
+        "id": "map_phuong_thuc_thanh_toan_tjw17",
+        "fieldKey": "phuong_thuc_thanh_toan",
+        "label": "Phương thức thanh toán",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{phuong_thuc_thanh_toan}}"
+      }
+    ],
+    "createdAt": "2026-11-13T10:41:55.299Z",
+    "updatedAt": "2026-11-13T10:41:55.299Z"
+  },
+  {
+    "id": "tpl_starter_2",
+    "name": "Văn bản thỏa thuận phân chia di sản thừa kế",
+    "originalFileName": "Van_ban_phan_chia_di_san_thua_ke.docx",
+    "category": "Di sản thừa kế",
+    "fileNameOnDisk": "tpl_starter_2_Van_ban_phan_chia_di_san_thua_ke.docx",
+    "sizeBytes": 3250,
+    "placeholdersDetected": [
+      "{{so_hop_dong}}",
+      "{{ngay_cong_chung}}",
+      "{{van_phong_cong_chung}}",
+      "{{nguoi_de_lai_di_san}}",
+      "{{ngay_mat_nguoi_de_lai}}",
+      "{{ben_mua_ho_ten}}",
+      "{{ben_mua_ngay_sinh}}",
+      "{{ben_mua_cccd}}",
+      "{{ben_mua_ngay_cap}}",
+      "{{ben_mua_noi_cap}}",
+      "{{ben_mua_dia_chi}}",
+      "{{thua_dat_so}}",
+      "{{to_ban_do_so}}",
+      "{{dia_chi_thua_dat}}",
+      "{{dien_tich}}",
+      "{{dien_tich_bang_chu}}",
+      "{{muc_dich_su_dung}}",
+      "{{so_phat_hanh_gcn}}",
+      "{{so_vao_so_gcn}}",
+      "{{ngay_cap_gcn}}",
+      "{{noi_dung_di_san}}"
+    ],
+    "mappings": [
+      {
+        "id": "map_so_hop_dong_5du3e",
+        "fieldKey": "so_hop_dong",
+        "label": "Số hợp đồng / Văn bản",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_hop_dong}}"
+      },
+      {
+        "id": "map_ngay_cong_chung_mnocr",
+        "fieldKey": "ngay_cong_chung",
+        "label": "Ngày công chứng",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{ngay_cong_chung}}"
+      },
+      {
+        "id": "map_van_phong_cong_chung_m9lgc",
+        "fieldKey": "van_phong_cong_chung",
+        "label": "Văn phòng công chứng / UBND",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{van_phong_cong_chung}}"
+      },
+      {
+        "id": "map_nguoi_de_lai_di_san_1czuv",
+        "fieldKey": "nguoi_de_lai_di_san",
+        "label": "Người để lại di sản",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{nguoi_de_lai_di_san}}"
+      },
+      {
+        "id": "map_ngay_mat_nguoi_de_lai_5ys83",
+        "fieldKey": "ngay_mat_nguoi_de_lai",
+        "label": "Ngày mất / Giấy chứng tử",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{ngay_mat_nguoi_de_lai}}"
+      },
+      {
+        "id": "map_ben_mua_ho_ten_usj0r",
+        "fieldKey": "ben_mua_ho_ten",
+        "label": "Họ và tên (Bên B / Bên nhận)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ho_ten}}"
+      },
+      {
+        "id": "map_ben_mua_ngay_sinh_1dekm",
+        "fieldKey": "ben_mua_ngay_sinh",
+        "label": "Ngày sinh (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ngay_sinh}}"
+      },
+      {
+        "id": "map_ben_mua_cccd_oqtem",
+        "fieldKey": "ben_mua_cccd",
+        "label": "Số CCCD / CMND (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_cccd}}"
+      },
+      {
+        "id": "map_ben_mua_ngay_cap_38xpv",
+        "fieldKey": "ben_mua_ngay_cap",
+        "label": "Ngày cấp CCCD (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ngay_cap}}"
+      },
+      {
+        "id": "map_ben_mua_noi_cap_pw1q0",
+        "fieldKey": "ben_mua_noi_cap",
+        "label": "Nơi cấp CCCD (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_noi_cap}}"
+      },
+      {
+        "id": "map_ben_mua_dia_chi_ag9pk",
+        "fieldKey": "ben_mua_dia_chi",
+        "label": "Địa chỉ thường trú (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_dia_chi}}"
+      },
+      {
+        "id": "map_thua_dat_so_y4436",
+        "fieldKey": "thua_dat_so",
+        "label": "Số thửa đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{thua_dat_so}}"
+      },
+      {
+        "id": "map_to_ban_do_so_8n0jx",
+        "fieldKey": "to_ban_do_so",
+        "label": "Số tờ bản đồ",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{to_ban_do_so}}"
+      },
+      {
+        "id": "map_dia_chi_thua_dat_wfij0",
+        "fieldKey": "dia_chi_thua_dat",
+        "label": "Địa chỉ thửa đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{dia_chi_thua_dat}}"
+      },
+      {
+        "id": "map_dien_tich_tp4ul",
+        "fieldKey": "dien_tich",
+        "label": "Diện tích (m²)",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{dien_tich}}"
+      },
+      {
+        "id": "map_dien_tich_bang_chu_yqcgt",
+        "fieldKey": "dien_tich_bang_chu",
+        "label": "Diện tích (bằng chữ)",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{dien_tich_bang_chu}}"
+      },
+      {
+        "id": "map_muc_dich_su_dung_glkoy",
+        "fieldKey": "muc_dich_su_dung",
+        "label": "Mục đích sử dụng đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{muc_dich_su_dung}}"
+      },
+      {
+        "id": "map_so_phat_hanh_gcn_erqtu",
+        "fieldKey": "so_phat_hanh_gcn",
+        "label": "Số phát hành Sổ đỏ (Seri)",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_phat_hanh_gcn}}"
+      },
+      {
+        "id": "map_so_vao_so_gcn_zttiq",
+        "fieldKey": "so_vao_so_gcn",
+        "label": "Số vào sổ cấp GCN",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_vao_so_gcn}}"
+      },
+      {
+        "id": "map_ngay_cap_gcn_f6b6j",
+        "fieldKey": "ngay_cap_gcn",
+        "label": "Ngày cấp GCN",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{ngay_cap_gcn}}"
+      },
+      {
+        "id": "map_noi_dung_di_san_ysexk",
+        "fieldKey": "noi_dung_di_san",
+        "label": "Thông tin phân chia di sản",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{noi_dung_di_san}}"
+      }
+    ],
+    "createdAt": "2026-11-13T10:41:55.299Z",
+    "updatedAt": "2026-11-13T10:41:55.299Z"
+  },
+  {
+    "id": "tpl_starter_3",
+    "name": "Đơn đăng ký biến động đất đai (Mẫu 09/ĐK)",
+    "originalFileName": "Don_dang_ky_bien_dong_dat_dai.docx",
+    "category": "Đơn đăng ký biến động",
+    "fileNameOnDisk": "tpl_starter_3_Don_dang_ky_bien_dong_dat_dai.docx",
+    "sizeBytes": 3116,
+    "placeholdersDetected": [
+      "{{ben_mua_ho_ten}}",
+      "{{ben_mua_ngay_sinh}}",
+      "{{ben_mua_cccd}}",
+      "{{ben_mua_ngay_cap}}",
+      "{{ben_mua_noi_cap}}",
+      "{{ben_mua_dia_chi}}",
+      "{{so_phat_hanh_gcn}}",
+      "{{so_vao_so_gcn}}",
+      "{{ngay_cap_gcn}}",
+      "{{thua_dat_so}}",
+      "{{to_ban_do_so}}",
+      "{{dia_chi_thua_dat}}",
+      "{{dien_tich}}",
+      "{{muc_dich_su_dung}}",
+      "{{so_hop_dong}}",
+      "{{ngay_cong_chung}}",
+      "{{van_phong_cong_chung}}",
+      "{{ben_ban_ho_ten}}",
+      "{{ben_ban_cccd}}",
+      "{{dia_diem_ky}}",
+      "{{ngay_lap}}"
+    ],
+    "mappings": [
+      {
+        "id": "map_ben_mua_ho_ten_bykxr",
+        "fieldKey": "ben_mua_ho_ten",
+        "label": "Họ và tên (Bên B / Bên nhận)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ho_ten}}"
+      },
+      {
+        "id": "map_ben_mua_ngay_sinh_sjjko",
+        "fieldKey": "ben_mua_ngay_sinh",
+        "label": "Ngày sinh (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ngay_sinh}}"
+      },
+      {
+        "id": "map_ben_mua_cccd_1ltm8",
+        "fieldKey": "ben_mua_cccd",
+        "label": "Số CCCD / CMND (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_cccd}}"
+      },
+      {
+        "id": "map_ben_mua_ngay_cap_4tbfb",
+        "fieldKey": "ben_mua_ngay_cap",
+        "label": "Ngày cấp CCCD (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_ngay_cap}}"
+      },
+      {
+        "id": "map_ben_mua_noi_cap_qyzvn",
+        "fieldKey": "ben_mua_noi_cap",
+        "label": "Nơi cấp CCCD (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_noi_cap}}"
+      },
+      {
+        "id": "map_ben_mua_dia_chi_v1x5q",
+        "fieldKey": "ben_mua_dia_chi",
+        "label": "Địa chỉ thường trú (Bên B)",
+        "group": "party_b",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_mua_dia_chi}}"
+      },
+      {
+        "id": "map_so_phat_hanh_gcn_qrsxs",
+        "fieldKey": "so_phat_hanh_gcn",
+        "label": "Số phát hành Sổ đỏ (Seri)",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_phat_hanh_gcn}}"
+      },
+      {
+        "id": "map_so_vao_so_gcn_iwt9x",
+        "fieldKey": "so_vao_so_gcn",
+        "label": "Số vào sổ cấp GCN",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_vao_so_gcn}}"
+      },
+      {
+        "id": "map_ngay_cap_gcn_axqof",
+        "fieldKey": "ngay_cap_gcn",
+        "label": "Ngày cấp GCN",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{ngay_cap_gcn}}"
+      },
+      {
+        "id": "map_thua_dat_so_cdwrw",
+        "fieldKey": "thua_dat_so",
+        "label": "Số thửa đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{thua_dat_so}}"
+      },
+      {
+        "id": "map_to_ban_do_so_cx9kr",
+        "fieldKey": "to_ban_do_so",
+        "label": "Số tờ bản đồ",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{to_ban_do_so}}"
+      },
+      {
+        "id": "map_dia_chi_thua_dat_zyy9v",
+        "fieldKey": "dia_chi_thua_dat",
+        "label": "Địa chỉ thửa đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{dia_chi_thua_dat}}"
+      },
+      {
+        "id": "map_dien_tich_g7778",
+        "fieldKey": "dien_tich",
+        "label": "Diện tích (m²)",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{dien_tich}}"
+      },
+      {
+        "id": "map_muc_dich_su_dung_f5360",
+        "fieldKey": "muc_dich_su_dung",
+        "label": "Mục đích sử dụng đất",
+        "group": "property",
+        "mode": "placeholder",
+        "placeholderTag": "{{muc_dich_su_dung}}"
+      },
+      {
+        "id": "map_so_hop_dong_nu449",
+        "fieldKey": "so_hop_dong",
+        "label": "Số hợp đồng / Văn bản",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{so_hop_dong}}"
+      },
+      {
+        "id": "map_ngay_cong_chung_h2vz5",
+        "fieldKey": "ngay_cong_chung",
+        "label": "Ngày công chứng",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{ngay_cong_chung}}"
+      },
+      {
+        "id": "map_van_phong_cong_chung_i2thz",
+        "fieldKey": "van_phong_cong_chung",
+        "label": "Văn phòng công chứng / UBND",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{van_phong_cong_chung}}"
+      },
+      {
+        "id": "map_ben_ban_ho_ten_za01e",
+        "fieldKey": "ben_ban_ho_ten",
+        "label": "Họ và tên (Bên A / Bên bán)",
+        "group": "party_a",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_ban_ho_ten}}"
+      },
+      {
+        "id": "map_ben_ban_cccd_tr061",
+        "fieldKey": "ben_ban_cccd",
+        "label": "Số CCCD / CMND (Bên A)",
+        "group": "party_a",
+        "mode": "placeholder",
+        "placeholderTag": "{{ben_ban_cccd}}"
+      },
+      {
+        "id": "map_dia_diem_ky_hzddj",
+        "fieldKey": "dia_diem_ky",
+        "label": "Địa điểm ký kết",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{dia_diem_ky}}"
+      },
+      {
+        "id": "map_ngay_lap_sllqv",
+        "fieldKey": "ngay_lap",
+        "label": "Ngày lập văn bản",
+        "group": "general",
+        "mode": "placeholder",
+        "placeholderTag": "{{ngay_lap}}"
+      }
+    ],
+    "createdAt": "2026-11-13T10:41:55.299Z",
+    "updatedAt": "2026-11-13T10:41:55.299Z"
+  }
+]

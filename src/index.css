@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Styling overrides for docx-preview rendered pages */
+.docx-preview-host .docx-wrapper {
+  background: #f1f5f9 !important;
+  padding: 20px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  gap: 20px !important;
+}
+
+.docx-preview-host .docx-wrapper > section.docx {
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.08), 0 4px 12px rgba(15, 23, 42, 0.04) !important;
+  border: 1px solid #e2e8f0 !important;
+  margin: 0 !important;
+  max-width: 100% !important;
+  background: #ffffff !important;
+}
+
+@media (max-width: 768px) {
+  .docx-preview-host .docx-wrapper {
+    padding: 8px !important;
+  }
+  .docx-preview-host .docx-wrapper > section.docx {
+    padding: 20px 16px !important;
+    width: 100% !important;
+    min-height: auto !important;
+  }
+}
